@@ -56,7 +56,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 #topbar{padding:10px 0;}
 #topbar p{float:left; margin:0; padding:0;}
 #topbar ul{float:right; margin:0; padding:0; list-style:none;}
-#topbar li{display:inline; margin:0 8px 0 0; padding:0 10px 0 0; border-right:1px solid red;}
+#topbar li{display:inline; margin:0 8px 0 0; padding:0 10px 0 0; border-right:1px solid black;}
 #topbar li.last{margin-right:0; padding-right:0; border:none;}
 
 /* ----------------------------------------------Header------------------------------------- */
